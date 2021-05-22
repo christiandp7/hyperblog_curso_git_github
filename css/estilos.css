@@ -12,3 +12,17 @@ body {
 .container h1 {
   font-size: 22px;
 }
+
+#cabecera {
+  background-color: #33da;
+  box-shadow: 0 2px 50px 0 rgba(0,0,0,0.5);
+  color: white;
+  margin: 0;
+  font-weight: bold;
+}
+
+.tagline {
+  font-weight: normal;
+  font-size: 0.7em;
+  padding: 0 0 0 1em;
+}
