@@ -3,3 +3,12 @@ body {
   font-family: 'Arial';
   color: deeppink;
 }
+
+.container {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.container h1 {
+  font-size: 22px;
+}
