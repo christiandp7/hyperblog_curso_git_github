@@ -26,3 +26,14 @@ body {
   font-size: 0.7em;
   padding: 0 0 0 1em;
 }
+
+footer {
+  text-align: center;
+  padding: 12px 0;
+  color: gray;
+}
+
+footer span {
+  color: hotpink;
+  font-size: 1.2rem;
+}
