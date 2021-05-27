@@ -5,3 +5,4 @@ Proyecto del curso del [curso de Git y GitHub](https://platzi.com/cursos/git-git
 > Proyecto de prueba
 
 - Con este proyecto estoy aprendiendo Git
+- También estoy aprendiendo buenas prácticas
